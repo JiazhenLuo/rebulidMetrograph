@@ -1,6 +1,6 @@
 import Card from './components/Cards/Card.jsx'
 import './App.css'
-import Navbar from './components/navbar/navbar.jsx'
+import Navbar from './components/Navbar/Navbar.jsx'
 import Filmlist from './Filmlist.jsx'
 
 function App() {
@@ -16,8 +16,7 @@ function App() {
         </div>
 
       </>
-
-      
+   
   )
 }
 
